@@ -16,6 +16,24 @@ In order to create a new SSH key, run ssh-keygen -t rsa -b 4096 -m pem -f path/t
 
 Having a passphrase is a good thing, since it will keep the key encrypted on your disk. When configuring the secret SSH_PRIVATE_KEY value in your repository, however, you will need the private key unencrypted.
 
+
+## Problem
+```
+➤ Executing task deploy:writable
+
+  Unable to setup correct permissions for writable dirs.
+  You need to configure sudo's sudoers files to not prompt for password,
+  or setup correct permissions manually.
+➤ Ex✔cuting task deploy:failed
+✔ Executing task deploy:unlock
+
+In writable.php line 95:
+
+  Can't set writable dirs with ACL.
+```
+`
+Solving: sudo apt-get install acl
+`
 Reference:
 - https://github.com/atymic/deployer-php-action
 - https://github.com/lorisleiva/laravel-deployer
