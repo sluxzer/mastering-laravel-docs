@@ -12,3 +12,8 @@ WHERE
     YEAR = 2009
 GROUP BY
     DATE_FORMAT(record_date, '%Y-%m-%d ');
+
+
+
+SELECT DATE_FORMAT(register_at, '%Y-%m-%d'), COUNT(*) FROM spk
+GROUP BY DATE_FORMAT(register_at, '%Y-%m-%d')
