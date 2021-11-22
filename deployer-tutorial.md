@@ -6,10 +6,17 @@ SSH_KNOWN_HOSTS
 ssh-keyscan rsa -t <server IP>
 ```
 
-SSH_PRIVATE_KEY
-ssh-keygen
-cat ~/.ssh/id_rsa
+# SSH_PRIVATE_KEY
 
+Add Key
+```
+ssh-keygen
+```
+
+Copy Key
+```
+cat ~/.ssh/id_rsa
+````
 
 Ref
 - https://deployer.org/docs/7.x
