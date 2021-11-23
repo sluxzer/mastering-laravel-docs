@@ -80,3 +80,6 @@ CREATE DATABASE `dpmptsp_tangsel_staging`
 ```
 GRANT ALL PRIVILEGES ON dpmptsp_tangsel_staging.* TO 'user_dpmptsp'@'localhost';
 ```
+
+Ref:
+https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
