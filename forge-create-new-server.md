@@ -12,3 +12,13 @@ you will see pop up success with "Sudo Password" and "Database Password, Copy & 
 
 ## 5. Wait Installation Progress Until done
 ![screencapture-forge-laravel-servers-520586-2021-12-19-00_26_55](https://user-images.githubusercontent.com/5717315/146650276-d6c9a6bc-77f0-4fc9-96ed-a8f1c132460d.png)
+
+
+# Create New Website
+![screencapture-forge-laravel-servers-520586-2021-12-19-00_40_38](https://user-images.githubusercontent.com/5717315/146650650-e4d18450-66f8-4a95-9fb7-3a7c2e5ed1f3.png)
+
+## Add Key to Repository
+![screencapture-github-Xylo-Indonesia-xylo-mazda-settings-keys-2021-12-19-00_45_50](https://user-images.githubusercontent.com/5717315/146650841-aa219bda-a0e9-4b30-8587-2067f2c1f495.png)
+
+![screencapture-forge-laravel-servers-520586-sites-1517785-2021-12-19-00_43_23 (1)](https://user-images.githubusercontent.com/5717315/146650842-15a49ce0-8627-4f2b-b27a-9e1450523669.png)
+![screencapture-github-Xylo-Indonesia-xylo-mazda-settings-keys-new-2021-12-19-00_45_39](https://user-images.githubusercontent.com/5717315/146650843-a3cf54a9-a666-4cef-8f18-5005449dbd9a.png)
