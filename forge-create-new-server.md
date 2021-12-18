@@ -22,3 +22,6 @@ you will see pop up success with "Sudo Password" and "Database Password, Copy & 
 
 ![screencapture-forge-laravel-servers-520586-sites-1517785-2021-12-19-00_43_23 (1)](https://user-images.githubusercontent.com/5717315/146650842-15a49ce0-8627-4f2b-b27a-9e1450523669.png)
 ![screencapture-github-Xylo-Indonesia-xylo-mazda-settings-keys-new-2021-12-19-00_45_39](https://user-images.githubusercontent.com/5717315/146650843-a3cf54a9-a666-4cef-8f18-5005449dbd9a.png)
+
+
+https://lorisleiva.com/deploy-your-laravel-app-from-scratch/deploy-using-laravel-forge
