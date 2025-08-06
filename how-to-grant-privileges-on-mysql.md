@@ -21,6 +21,8 @@ Note: In the event that you’re unable to connect directly to the server as the
 
 ```	
 $ mysql --user=username
+SHOW DATABASES;
+USE DBName;
 ```
 
 ## Granting Privileges
